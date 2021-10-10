@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Backup your work on Notion now.
     subtitle: >-
-        
+        Join 
     actions:
       - label: Learn More
         url: /features
