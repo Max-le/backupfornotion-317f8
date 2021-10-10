@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Backup your work on Notion now.
+    title: Backup all of your Notion notes now.
     subtitle: >-
         Join 
     actions:
